@@ -1,0 +1,4 @@
+﻿category,total_minutes,task_count,completed_tasks,completion_rate_percent
+Excel,85,3,3,100.0
+GitHub,25,2,2,100.0
+Python,50,2,1,50.0
